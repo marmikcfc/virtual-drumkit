@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WPDrumkit" EntryPointType="WPDrumkit.Main" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WPDrumkit" Source="WPDrumkit.dll" />
+  </Deployment.Parts>
+</Deployment>

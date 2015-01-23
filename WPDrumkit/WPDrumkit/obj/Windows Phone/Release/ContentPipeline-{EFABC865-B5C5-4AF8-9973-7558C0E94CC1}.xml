@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\bg_pads.png</Source>
+      <Name>Images\bg_pads</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\bg_pads.xnb</Output>
+      <Time>2012-11-12T19:12:40+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\splash.png</Source>
+      <Name>Images\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\splash.xnb</Output>
+      <Time>2012-11-12T22:30:26+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\exit.png</Source>
+      <Name>Images\Buttons\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\exit.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\exit_pressed.png</Source>
+      <Name>Images\Buttons\exit_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\exit_pressed.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\info.png</Source>
+      <Name>Images\Buttons\info</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\info.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\info_pressed.png</Source>
+      <Name>Images\Buttons\info_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\info_pressed.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\play.png</Source>
+      <Name>Images\Buttons\play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\play.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\play_pressed.png</Source>
+      <Name>Images\Buttons\play_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\play_pressed.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\record.png</Source>
+      <Name>Images\Buttons\record</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\record.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\record_pressed.png</Source>
+      <Name>Images\Buttons\record_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\record_pressed.xnb</Output>
+      <Time>2011-07-13T16:30:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\stop.png</Source>
+      <Name>Images\Buttons\stop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\stop.xnb</Output>
+      <Time>2011-07-15T13:43:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\stop_pressed.png</Source>
+      <Name>Images\Buttons\stop_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\stop_pressed.xnb</Output>
+      <Time>2011-07-15T13:43:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\recording.png</Source>
+      <Name>Images\Buttons\recording</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\recording.xnb</Output>
+      <Time>2011-07-18T14:19:34+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\cowbell.png</Source>
+      <Name>Images\Menu\cowbell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\cowbell.xnb</Output>
+      <Time>2011-07-22T12:08:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\cowbell_highlight.png</Source>
+      <Name>Images\Menu\cowbell_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\cowbell_highlight.xnb</Output>
+      <Time>2011-07-22T12:08:12+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\crash.png</Source>
+      <Name>Images\Menu\crash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\crash.xnb</Output>
+      <Time>2011-07-22T12:08:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\crash_highlight.png</Source>
+      <Name>Images\Menu\crash_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\crash_highlight.xnb</Output>
+      <Time>2011-07-22T12:08:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\hihat1.png</Source>
+      <Name>Images\Menu\hihat1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\hihat1.xnb</Output>
+      <Time>2011-07-22T12:08:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\hihat1_highlight.png</Source>
+      <Name>Images\Menu\hihat1_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\hihat1_highlight.xnb</Output>
+      <Time>2011-07-22T12:08:06+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\hihat2.png</Source>
+      <Name>Images\Menu\hihat2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\hihat2.xnb</Output>
+      <Time>2011-07-22T12:08:06+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\hihat2_highlight.png</Source>
+      <Name>Images\Menu\hihat2_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\hihat2_highlight.xnb</Output>
+      <Time>2011-07-22T12:08:04+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\kick.png</Source>
+      <Name>Images\Menu\kick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\kick.xnb</Output>
+      <Time>2012-11-13T19:22:46.680446+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\kick_highlight.png</Source>
+      <Name>Images\Menu\kick_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\kick_highlight.xnb</Output>
+      <Time>2012-11-13T19:26:16.4540145+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\ride1.png</Source>
+      <Name>Images\Menu\ride1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\ride1.xnb</Output>
+      <Time>2011-07-22T12:08:00+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\ride1_highlight.png</Source>
+      <Name>Images\Menu\ride1_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\ride1_highlight.xnb</Output>
+      <Time>2011-07-22T12:08:00+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\ride2.png</Source>
+      <Name>Images\Menu\ride2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\ride2.xnb</Output>
+      <Time>2011-07-22T12:07:58+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\ride2_highlight.png</Source>
+      <Name>Images\Menu\ride2_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\ride2_highlight.xnb</Output>
+      <Time>2011-07-22T12:07:56+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\snare.png</Source>
+      <Name>Images\Menu\snare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\snare.xnb</Output>
+      <Time>2012-11-13T19:21:35.0295202+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\snare_highlight.png</Source>
+      <Name>Images\Menu\snare_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\snare_highlight.xnb</Output>
+      <Time>2012-11-13T19:20:28.869804+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\splash.png</Source>
+      <Name>Images\Menu\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\splash.xnb</Output>
+      <Time>2011-07-22T12:07:52+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\splash_highlight.png</Source>
+      <Name>Images\Menu\splash_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\splash_highlight.xnb</Output>
+      <Time>2011-07-22T12:07:52+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\tom1.png</Source>
+      <Name>Images\Menu\tom1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\tom1.xnb</Output>
+      <Time>2012-11-13T12:10:19.0306441+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\tom1_highlight.png</Source>
+      <Name>Images\Menu\tom1_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\tom1_highlight.xnb</Output>
+      <Time>2012-11-13T19:19:01.5680506+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\tom2.png</Source>
+      <Name>Images\Menu\tom2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\tom2.xnb</Output>
+      <Time>2012-11-13T12:06:09.7890063+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\tom2_highlight.png</Source>
+      <Name>Images\Menu\tom2_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\tom2_highlight.xnb</Output>
+      <Time>2012-11-13T12:06:44.6706676+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\tom3.png</Source>
+      <Name>Images\Menu\tom3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\tom3.xnb</Output>
+      <Time>2012-11-13T12:04:33.6304374+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\tom3_highlight.png</Source>
+      <Name>Images\Menu\tom3_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\tom3_highlight.xnb</Output>
+      <Time>2012-11-13T12:05:25.4225284+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\close.png</Source>
+      <Name>Images\Menu\close</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\close.xnb</Output>
+      <Time>2011-07-21T16:45:40+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\drumset.png</Source>
+      <Name>Images\Buttons\drumset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\drumset.xnb</Output>
+      <Time>2012-11-12T23:20:00+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\drumset_pressed.png</Source>
+      <Name>Images\Buttons\drumset_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\drumset_pressed.xnb</Output>
+      <Time>2011-08-29T16:03:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\pads.png</Source>
+      <Name>Images\Buttons\pads</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\pads.xnb</Output>
+      <Time>2011-08-29T16:03:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Buttons\pads_pressed.png</Source>
+      <Name>Images\Buttons\pads_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Buttons\pads_pressed.xnb</Output>
+      <Time>2011-08-29T16:03:08+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\background.png</Source>
+      <Name>Images\Drumset\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\background.xnb</Output>
+      <Time>2012-11-12T22:49:58+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\locks.png</Source>
+      <Name>Images\Drumset\locks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\locks.xnb</Output>
+      <Time>2011-08-30T15:00:10+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\china.png</Source>
+      <Name>Images\Drumset\china</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\china.xnb</Output>
+      <Time>2012-11-12T22:45:16+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\cowbell.png</Source>
+      <Name>Images\Drumset\cowbell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\cowbell.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\crash.png</Source>
+      <Name>Images\Drumset\crash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\crash.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\hihat_closed.png</Source>
+      <Name>Images\Drumset\hihat_closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\hihat_closed.xnb</Output>
+      <Time>2012-11-12T22:53:06+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\hihat_open_lower.png</Source>
+      <Name>Images\Drumset\hihat_open_lower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\hihat_open_lower.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\hihat_open_upper.png</Source>
+      <Name>Images\Drumset\hihat_open_upper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\hihat_open_upper.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\kick.png</Source>
+      <Name>Images\Drumset\kick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\kick.xnb</Output>
+      <Time>2012-11-12T23:18:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\ride1.png</Source>
+      <Name>Images\Drumset\ride1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\ride1.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\ride2.png</Source>
+      <Name>Images\Drumset\ride2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\ride2.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\snare.png</Source>
+      <Name>Images\Drumset\snare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\snare.xnb</Output>
+      <Time>2012-11-12T23:18:30+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\splash.png</Source>
+      <Name>Images\Drumset\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\splash.xnb</Output>
+      <Time>2011-08-30T15:00:36+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\tom1.png</Source>
+      <Name>Images\Drumset\tom1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\tom1.xnb</Output>
+      <Time>2012-11-12T23:18:24+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\tom2.png</Source>
+      <Name>Images\Drumset\tom2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\tom2.xnb</Output>
+      <Time>2012-11-12T23:17:58+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Drumset\tom3.png</Source>
+      <Name>Images\Drumset\tom3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Drumset\tom3.xnb</Output>
+      <Time>2012-11-12T23:18:14+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\china.png</Source>
+      <Name>Images\Menu\china</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\china.xnb</Output>
+      <Time>2012-11-12T22:38:18+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\china_highlight.png</Source>
+      <Name>Images\Menu\china_highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Images\Menu\china_highlight.xnb</Output>
+      <Time>2012-11-12T22:42:42+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\cowbell.wav</Source>
+      <Name>Audio\cowbell</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\cowbell.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\crash.wav</Source>
+      <Name>Audio\crash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\crash.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\hihat1.wav</Source>
+      <Name>Audio\hihat1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\hihat1.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\hihat2.wav</Source>
+      <Name>Audio\hihat2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\hihat2.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\kick.wav</Source>
+      <Name>Audio\kick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\kick.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ride1.wav</Source>
+      <Name>Audio\ride1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\ride1.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\ride2.wav</Source>
+      <Name>Audio\ride2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\ride2.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\snare.wav</Source>
+      <Name>Audio\snare</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\snare.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\splash.wav</Source>
+      <Name>Audio\splash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\splash.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tom1.wav</Source>
+      <Name>Audio\tom1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\tom1.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tom2.wav</Source>
+      <Name>Audio\tom2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\tom2.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tom3.wav</Source>
+      <Name>Audio\tom3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\tom3.xnb</Output>
+      <Time>2011-07-13T11:13:54+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\china.wav</Source>
+      <Name>Audio\china</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\Audio\china.xnb</Output>
+      <Time>2011-09-05T16:55:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>NokiaPureText.spritefont</Source>
+      <Name>NokiaPureText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\NokiaPureText.xnb</Output>
+      <Time>2012-10-03T22:58:28+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EFABC865-B5C5-4AF8-9973-7558C0E94CC1}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkitContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkit\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-19T13:22:07.9410038+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

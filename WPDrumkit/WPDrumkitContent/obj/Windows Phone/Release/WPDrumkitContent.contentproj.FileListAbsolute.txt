@@ -1,0 +1,3 @@
+C:\Users\chaula\Downloads\wpdrumkit_1.1.0\WPDrumkit\WPDrumkitContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+E:\wpdrumkit_1.1.0\WPDrumkit\WPDrumkitContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\chaula\Desktop\wpdrumkit_1.1.0\WPDrumkit\WPDrumkitContent\obj\Windows Phone\Release\ResolveAssemblyReference.cache
